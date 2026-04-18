@@ -1,4 +1,22 @@
 # projet-big-data
-Ce projet portant sur l'analyse des données immobilières dans le département du Rhone. Ce compose de nombreux documents. Les principaux étant :
-les scrips pour le webscrapping : scrapper_logic_immo.py et cloudscrapper_rhone.ipynb qui ont permis d'avoir deux bases de données. Il est INUTILE de lancer le premier qui mettra des heures à tourner d'ou le préférence de le mettre sous format python d'autant plus qu'aucune sortie n'a été nécessaire.
-les scrips de nettoyages de données nettoyage_données-notebook.ipynb et cleaning.ipynb peuvent eux tout à fait être exécutés. Tout comme les scripts data_analyse.ipynb, NLP.ipynb et Modele.ipynb.
+
+Ce projet porte sur l'analyse des données immobilières dans le département du Rhône.  
+Il se compose de plusieurs documents, dont les principaux sont :
+
+## Web scraping
+- `scrapper_logic_immo.py`  
+- `cloudscrapper_rhone.ipynb`  
+Ces scripts ont permis de constituer deux bases de données : `logic_immo_lyon.csv` et `annonces_rhone.csv`
+⚠️ Il est inutile de lancer `scrapper_logic_immo.py` : il est très long à exécuter et ne produit d'ailleurs pas de sorties.  
+
+## Nettoyage des données
+- `nettoyage_données-notebook.ipynb`  
+- `cleaning.ipynb`
+- `fusion_bdd`
+  - Ces notebooks peuvent être exécutés sans problème et ont donné lieu  a 3 bases de données : `logic_immo_lyon_propre.csv`, `etreproprio_rhone_propre.csv` et `bases_fusionnees.csv`
+
+## Analyse et modélisation
+- `data_analyse.ipynb`  
+- `NLP.ipynb`  + `wordcount_immo.png`
+- `Modele.ipynb`  
+  - Scripts dédiés à l’analyse des données et à la création de modèles  
