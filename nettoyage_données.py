@@ -745,4 +745,4 @@ df = df.drop("prix_m2")
 print(f"Lignes restantes : {df.count()}")
 
 #csv
-df.toPandas().to_csv("logic_immo_lyon_propre.csv", index=False, sep=";", encoding="utf-8-sig")
+#df.toPandas().to_csv("logic_immo_lyon_propre.csv", index=False, sep=";", encoding="utf-8-sig")
