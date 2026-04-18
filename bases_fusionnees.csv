@@ -2221,12 +2221,14 @@ maison,6.0,649000.0,135.0,MAISON,la tour de salvagny,69250
 appartement,3.0,247000.0,70.0,1,saint genis les ollieres,69205
 appartement,4.0,158000.0,43.0,RDC,lyon,69123
 appartement,1.0,66000.0,19.0,4,villeurbanne,69266
+appartement,3.0,245000.0,77.0,-1,tassin la demi lune,69244
 appartement,4.0,239000.0,83.0,6,decines charpieu,69275
 maison,3.0,295000.0,70.0,MAISON,francheville,69089
 maison,6.0,599000.0,156.0,MAISON,bron,69029
 maison,6.0,350000.0,167.0,MAISON,feyzin,69276
 maison,5.0,455000.0,111.0,MAISON,jonage,69279
 appartement,4.0,657000.0,109.0,1,francheville,69089
+appartement,3.0,415000.0,62.0,-1,lyon,69123
 maison,6.0,495000.0,121.0,MAISON,saint cyr au mont d'or,69191
 appartement,5.0,525000.0,127.0,1,ecully,69081
 maison,7.0,295000.0,145.0,MAISON,grigny sur rhone,69096
@@ -2266,6 +2268,7 @@ appartement,2.0,236000.0,41.0,4,tassin la demi lune,69244
 appartement,3.0,270000.0,64.0,1,brignais,69027
 appartement,4.0,349000.0,103.0,4,venissieux,69259
 appartement,4.0,330000.0,88.0,4,caluire et cuire,69034
+appartement,4.0,940000.0,118.0,-1,lyon,69123
 maison,7.0,880000.0,195.0,MAISON,val d'oingt,69024
 maison,4.0,395000.0,94.0,MAISON,sathonay camp,69292
 appartement,4.0,275000.0,89.0,1,sainte foy les lyon,69202
@@ -2298,6 +2301,7 @@ maison,4.0,379000.0,103.0,MAISON,porte des pierres dorees,69114
 maison,10.0,870000.0,321.0,MAISON,colombier saugnieu,69299
 maison,5.0,569000.0,140.0,MAISON,grezieu la varenne,69094
 appartement,5.0,750000.0,251.0,1,chassieu,69271
+appartement,4.0,310000.0,82.0,-1,villeurbanne,69266
 appartement,8.0,270000.0,174.0,2,genay,69278
 maison,5.0,450000.0,138.0,MAISON,villefranche sur saone,69264
 appartement,3.0,239900.0,61.0,2,saint priest,69290
@@ -2323,6 +2327,7 @@ maison,5.0,315000.0,128.0,MAISON,charnay,69047
 appartement,4.0,509900.0,92.0,2,craponne,69069
 appartement,3.0,285000.0,64.0,9,lyon,69123
 maison,6.0,389000.0,137.0,MAISON,craponne,69069
+appartement,3.0,440000.0,78.0,-1,rillieux la pape,69286
 appartement,4.0,230000.0,81.0,4,venissieux,69259
 appartement,6.0,750000.0,180.0,1,saint didier au mont d'or,69194
 appartement,8.0,260000.0,375.0,1,amplepuis,69006
@@ -2364,8 +2369,9 @@ appartement,8.0,550000.0,400.0,1,loire sur rhone,69118
 appartement,5.0,239000.0,106.0,1,villefranche sur saone,69264
 maison,5.0,399900.0,106.0,MAISON,saint bonnet de mure,69287
 maison,7.0,595000.0,190.0,MAISON,chasselay,69049
+appartement,3.0,235000.0,79.0,-1,poleymieux au mont d'or,69153
+appartement,3.0,269000.0,72.0,-1,francheville,69089
 maison,5.0,700000.0,183.0,MAISON,marcilly d'azergues,69125
-appartement,4.0,370000.0,86.0,-1,lyon,69123
 appartement,2.0,210000.0,62.0,1,quincieux,69163
 appartement,3.0,157000.0,60.0,1,villefranche sur saone,69264
 appartement,3.0,199000.0,56.0,4,decines charpieu,69275
@@ -7717,8 +7723,6 @@ maison,6.0,429000.0,165.0,MAISON,tarare,69170
 maison,8.0,1250000.0,182.0,MAISON,saint cyr au mont d'or,69450
 appartement,4.0,475000.0,108.0,1,lyon,69123
 appartement,1.0,76000.0,20.0,1,lyon,69123
-appartement,3.0,106000.0,93.0,1,lyon,69123
-appartement,3.0,415000.0,62.0,1,lyon,69123
 appartement,4.0,524000.0,90.0,1,lyon,69123
 appartement,1.0,89000.0,24.0,5,lyon,69123
 appartement,2.0,345000.0,58.0,1,lyon,69123
@@ -7793,7 +7797,6 @@ appartement,1.0,98000.0,18.0,1,lyon,69123
 appartement,1.0,168000.0,25.0,4,lyon,69123
 appartement,2.0,273000.0,56.0,1,lyon,69123
 appartement,2.0,199000.0,45.0,4,lyon,69123
-appartement,2.0,229000.0,46.0,1,lyon,69123
 appartement,1.0,166647.0,28.0,3,lyon,69123
 appartement,4.0,299000.0,80.0,1,rillieux la pape,69286
 appartement,3.0,299000.0,59.0,1,lyon,69123
@@ -7802,6 +7805,7 @@ appartement,2.0,272000.0,39.0,2,lyon,69123
 appartement,2.0,185000.0,42.0,1,lyon,69123
 appartement,5.0,790000.0,143.0,2,caluire et cuire,69034
 appartement,3.0,365000.0,88.0,1,charbonnieres les bains,69044
+appartement,4.0,445000.0,115.0,-1,lyon,69123
 appartement,2.0,131000.0,46.0,4,lyon,69123
 appartement,2.0,235000.0,45.0,1,lyon,69123
 appartement,3.0,389900.0,66.0,2,lyon,69123
@@ -7821,7 +7825,6 @@ appartement,3.0,236000.0,71.0,3,villeurbanne,69266
 maison,7.0,995000.0,250.0,MAISON,villeurbanne,69266
 appartement,1.0,105000.0,21.0,1,bron,69029
 appartement,7.0,350000.0,102.0,1,lyon,69123
-appartement,3.0,440000.0,78.0,1,rillieux la pape,69286
 appartement,3.0,229500.0,63.0,1,caluire et cuire,69034
 appartement,3.0,219000.0,73.0,2,villeurbanne,69266
 appartement,5.0,645000.0,152.0,1,lyon,69123
@@ -7830,7 +7833,6 @@ appartement,3.0,269000.0,56.0,1,lyon,69123
 appartement,3.0,220000.0,62.0,1,lyon,69123
 appartement,3.0,252000.0,79.0,1,oullins pierre benite,69149
 appartement,3.0,349900.0,62.0,1,sathonay village,69293
-appartement,4.0,445000.0,115.0,1,lyon,69123
 appartement,2.0,275000.0,49.0,1,lyon,69123
 appartement,2.0,279000.0,57.0,3,lyon,69123
 appartement,2.0,127000.0,19.0,2,lyon,69123
@@ -7852,7 +7854,7 @@ appartement,3.0,375000.0,91.0,3,lyon,69123
 appartement,2.0,249000.0,54.0,1,lyon,69123
 appartement,2.0,199000.0,47.0,1,charbonnieres les bains,69044
 appartement,2.0,189000.0,47.0,4,lyon,69123
-appartement,4.0,310000.0,82.0,1,villeurbanne,69266
+appartement,2.0,250000.0,34.0,-1,lyon,69123
 appartement,5.0,197600.0,105.0,8,lyon,69123
 appartement,3.0,162000.0,53.0,1,oullins pierre benite,69149
 appartement,2.0,255000.0,53.0,1,ecully,69081
@@ -7866,7 +7868,6 @@ appartement,3.0,326000.0,80.0,4,lyon,69123
 maison,5.0,620000.0,137.0,MAISON,sainte consorce,69190
 appartement,1.0,51000.0,18.0,1,lyon,69123
 appartement,3.0,230000.0,72.0,1,villeurbanne,69266
-appartement,3.0,235000.0,79.0,1,poleymieux au mont d'or,69153
 appartement,5.0,149000.0,88.0,3,lyon,69123
 appartement,1.0,85000.0,19.0,3,lyon,69123
 appartement,4.0,499000.0,111.0,1,lyon,69123
@@ -7885,6 +7886,7 @@ appartement,1.0,185000.0,38.0,1,lyon,69123
 appartement,3.0,173166.0,79.0,3,caluire et cuire,69034
 appartement,4.0,305000.0,96.0,1,saint priest,69290
 appartement,3.0,270000.0,67.0,1,saint genis les ollieres,69205
+appartement,4.0,370000.0,86.0,-1,lyon,69123
 appartement,5.0,429000.0,102.0,3,lyon,69123
 maison,5.0,970000.0,190.0,MAISON,saint cyr au mont d'or,69191
 appartement,2.0,229000.0,46.0,4,lyon,69123
@@ -7907,6 +7909,7 @@ appartement,2.0,219900.0,44.0,1,lyon,69123
 appartement,2.0,190000.0,46.0,1,villeurbanne,69266
 appartement,9.0,3600000.0,563.0,1,lyon,69123
 maison,7.0,585000.0,140.0,MAISON,rillieux la pape,69286
+appartement,2.0,229000.0,46.0,-1,lyon,69123
 maison,5.0,290000.0,109.0,MAISON,villeurbanne,69266
 appartement,4.0,560000.0,84.0,1,sainte foy les lyon,69202
 appartement,5.0,900000.0,107.0,5,villeurbanne,69266
@@ -7940,7 +7943,6 @@ appartement,5.0,379900.0,110.0,1,saint priest,69290
 appartement,2.0,150000.0,42.0,1,villefranche sur saone,69264
 appartement,3.0,315000.0,60.0,1,lyon,69123
 appartement,7.0,3400000.0,333.0,1,lyon,69123
-appartement,2.0,250000.0,34.0,1,lyon,69123
 appartement,4.0,650000.0,100.0,1,lyon,69123
 appartement,2.0,115840.0,56.0,1,caluire et cuire,69034
 appartement,4.0,295000.0,97.0,4,villeurbanne,69266
@@ -7950,23 +7952,20 @@ appartement,4.0,229000.0,78.0,7,lyon,69123
 appartement,1.0,137000.0,28.0,5,lyon,69123
 appartement,1.0,200000.0,31.0,1,lyon,69123
 appartement,4.0,385000.0,88.0,3,caluire et cuire,69034
-appartement,5.0,800000.0,145.0,1,lyon,69123
 appartement,6.0,798500.0,192.0,1,lyon,69123
 appartement,4.0,420000.0,115.0,6,lyon,69123
 appartement,3.0,235000.0,59.0,1,lyon,69123
 appartement,3.0,325000.0,68.0,1,caluire et cuire,69034
 appartement,2.0,179000.0,47.0,2,saint priest,69290
-appartement,4.0,940000.0,118.0,1,lyon,69123
 appartement,3.0,490000.0,101.0,2,lyon,69123
 maison,5.0,549000.0,131.0,MAISON,limonest,69116
-appartement,3.0,269000.0,72.0,1,francheville,69089
 appartement,2.0,299000.0,63.0,1,lyon,69123
+appartement,3.0,106000.0,93.0,-1,lyon,69123
 appartement,4.0,210000.0,63.0,5,lyon,69123
 appartement,1.0,139000.0,23.0,1,lyon,69123
 appartement,4.0,470000.0,84.0,2,tassin la demi lune,69244
 maison,6.0,945000.0,157.0,MAISON,saint cyr au mont d'or,69191
 appartement,5.0,640000.0,122.0,4,lyon,69123
-appartement,3.0,245000.0,77.0,1,tassin la demi lune,69244
 maison,3.0,385000.0,70.0,MAISON,villeurbanne,69266
 appartement,4.0,375000.0,91.0,1,lyon,69123
 appartement,4.0,334500.0,81.0,2,rillieux la pape,69286
@@ -7995,9 +7994,9 @@ appartement,2.0,210000.0,69.0,RDC,lyon,69123
 appartement,1.0,89000.0,20.0,6,lyon,69123
 appartement,3.0,368000.0,69.0,1,la tour de salvagny,69250
 appartement,4.0,218000.0,68.0,1,villeurbanne,69266
+appartement,5.0,449000.0,142.0,1,tassin la demi lune,69244
 appartement,3.0,105000.0,56.0,1,villefranche sur saone,69264
 maison,6.0,688000.0,166.0,MAISON,saint genis les ollieres,69205
-appartement,5.0,449000.0,142.0,1,tassin la demi lune,69244
 maison,6.0,472500.0,115.0,MAISON,decines charpieu,69275
 maison,6.0,530000.0,143.0,MAISON,craponne,69069
 appartement,5.0,535000.0,125.0,1,lyon,69123
@@ -8016,5 +8015,6 @@ appartement,3.0,297000.0,63.0,6,lyon,69123
 appartement,4.0,285000.0,83.0,1,lyon,69123
 appartement,2.0,121510.0,60.0,1,caluire et cuire,69034
 appartement,2.0,99000.0,49.0,3,rillieux la pape,69286
+appartement,5.0,800000.0,145.0,-1,lyon,69123
 appartement,4.0,489000.0,92.0,1,craponne,69069
 appartement,2.0,220000.0,50.0,1,villeurbanne,69266
