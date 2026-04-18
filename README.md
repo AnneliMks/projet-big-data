@@ -13,7 +13,7 @@ Ces scripts ont permis de constituer deux bases de données : `logic_immo_lyon.c
 - `nettoyage_données-notebook.ipynb`  
 - `cleaning.ipynb`
 - `fusion_bdd`
-  - Ces notebooks peuvent être exécutés sans problème et ont donné lieu  a 3 bases de données : `logic_immo_lyon_propre.csv`, `etreproprio_rhone_propre.csv` et `bases_fusionnees.csv`
+  - Ces notebooks peuvent être exécutés sans problème et ont donné lieu à 3 bases de données : `logic_immo_lyon_propre.csv`, `etreproprio_rhone_propre.csv` et `bases_fusionnees.csv`
 
 ## Analyse et modélisation
 - `data_analyse.ipynb`  
